@@ -1,37 +1,40 @@
 .footer {
   font-size: 8px;
   padding-bottom: 20px;
+  margin-top: 6em;
 }
 
 .header {
   font-size: 10px;
   padding-top: 30px;
+  margin-bottom: 5em;
 }
 
 .tour-dates {
   color: #daba57;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 .tour-table {
   background-color: #525252;
-  margin: 100px;
-  margin-top: 50px;
-  margin-bottom: 20px;
+  margin-right:2em;
+  margin-top: 2em;
+  margin-bottom: 0em;
   border-right: : 0px;
-  /* padding-bottom: .1px; */
-  /* margin-left: 50px;
-  margin-right: 50px; */
+
+}
+
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
 }
 
 .dates {
   margin: 10px;
   margin-left: 20px;
   font-size: 16px;
-}
-
-.btn {
-  /* padding-right: 0px; */
-  /* margin-right: 0px; */
+  font-family: ITF Devangari, sans-serif;
 }
 
 .tour-body {
@@ -43,19 +46,16 @@ tr {
 
 }
 
-/* tr.border_bottom td {
-  border-bottom:50pt solid black;
-} */
-
 button {
-  background-color: #525252;
+  /* background-color: #525252; */
   padding: 10px;
-  color: white;
+  /* color: white; */
   border: 2px solid white;
 }
 
 .table {
   border-top: 2px solid white;
+  margin-right: 10em;
 }
 
 .triangle {
@@ -65,24 +65,41 @@ button {
 
 .bar {
   border: 1px solid #525252;
+  margin-top: 1em;
+  margin-bottom: 2em;
 }
 
 .icon {
   max-width: 20px;
   max-height: 20px;
   border: 1px solid #525252;
-  /* padding: 0px;
-  margin: 0px; */
+  padding: 0px;
+  margin: 0px;ß
 
 }
 
-/* .icons {
-  margin-right: 30px;
-  /* padding: 0px;
-  margin: 0px; */
-} */
+tr {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
 
 .icon-li {
   margin: 0px;
   margin-right:0px;
+  margin-left:0px;
+}
+
+.page {
+  background-image: url("../images/b3_bg.png");
+}
+
+/* To remove the spacing between the icons */
+.list-inline-item:not(:last-child) {
+    margin-right: 0rem;
+}
+
+.table td, .table th {
+  vertical-align: middle;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
