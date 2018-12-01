@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ZERO HOUR</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<script
+	src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script
+	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<script src="js/index.js"></script>
+
+<style>
+body {
+	font: 400 15px/1.8 Lato, sans-serif;
+	width: 100%;
+	background: #000000 url("images/b3_bg.png") !important;
+	background-size: cover;
+}
+
+.jumbotron {
+	width: 100%;
+	height: 600px;
+	background-image: url("images/background-1.png");
+	background-size: cover;
+	background-color: #000000 !important;
+}
+
+.container h1 {
+	color: #D8BA57;
+	font-size: 40px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.container .home_img {
+	margin-top: 50px;
+}
+
+#new_album .row .col-sm-6 h3, #new_album .row .col-sm-6 p {
+	color: #B3B6B7;
+}
+/* Remove the navbar's default margin-bottom and rounded borders */
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+.bg-1 {
+	width: 100%;
+	background-image: url("images/b3_background.png") !important;
+	background-size: cover;
+	background-color: #000000 !important;
+}
+
+.text_center {
+  text-align: center;
+}
+
+.thumbnail {
+	background-color: #000000 !important;
+}
+
+audio {
+	
+	width: 400px;
+	
+	
+}
+
+#playlist .active a {
+	color: #5DB0E6;
+	text-decoration: none;
+}
+
+
+
+#playlist li a {
+	color: #eeeedd;
+	
+	
+	display: block;
+}
+
+#playlist li a:hover {
+	text-decoration: none;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+	background-color: #000000;
+	padding: 15px;
+	color: #BDC3C7;
+}
+</style>
+</head>
+<body>
+
+	<nav class="navbar navbar-inverse">
+		<div class="container-fluid">
+
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse"
+					data-target="#myNavbar">
+					<span class="icon-bar"></span> <span class="icon-bar"></span> <span
+						class="icon-bar"></span>
+				</button>
+			</div>
+			<div class="collapse navbar-collapse" id="myNavbar">
+				<ul class="nav navbar-nav navbar-left">
+					<li><a href="#myPage">HOME</a></li>
+					<li><a href="#band">Media</a></li>
+					<li><a href="#tour">TOUR</a></li>
+					<li><a href="#contact">About</a></li>
+					<li><a href="#contact">Community</a></li>
+					<li><a href="#contact">Contact</a></li>
+					<li><a href="#contact">Store</a></li>
+
+
+				</ul>
+				<ul class="nav navbar-nav navbar-right">
+
+					<li
+						style="width: 30px; height: 30px; margin-bottom: 0; margin-right: 5px; display: inline-block">
+						<a href="http://www.facebook.com/HourZeroHC" target="_blank"
+						data-content="http://www.facebook.com/">
+							<div style="width: 30px; height: 30px;">
+								<img alt="White Facebook Icon" data-type="image"
+									src="images/facebook_icon.png"
+									style="width: 30px; height: 30px;">
+							</div>
+					</a>
+					</li>
+					<li
+						style="width: 30px; height: 30px; margin-bottom: 0; margin-right: 5px; display: inline-block">
+						<a href="http://www.twitter.com/HourZero" target="_blank"
+						data-content="http://www.twitter.com/">
+							<div style="width: 30px; height: 30px;">
+								<img alt="White Twitter Icon" data-type="image"
+									src="images/twitter_icon.png"
+									style="width: 30px; height: 30px;">
+							</div>
+					</a>
+					</li>
+
+					<li
+						style="width: 30px; height: 30px; margin-bottom: 0; margin-right: 5px; display: inline-block">
+						<a href="http://www.instigram.com/HourZero" target="_blank"
+						data-content="http://www.instigram.com/">
+							<div style="width: 30px; height: 30px;">
+								<img alt="White Instigram Icon" data-type="image"
+									src="images/instigram_icon.png"
+									style="width: 30px; height: 30px;">
+							</div>
+					</a>
+					</li>
+
+					<li
+						style="width: 30px; height: 30px; margin-bottom: 0; margin-right: 35px; display: inline-block">
+						<a href="http://www.youtube.com/HourZero" target="_blank"
+						data-content="http://www.youtube.com/">
+							<div style="width: 30px; height: 30px;">
+								<img alt="White Media Player Icon" data-type="image"
+									src="images/play_icon.png" style="width: 30px; height: 30px;">
+							</div>
+					</a>
+					</li>
+				</ul>
+
+			</div>
+		</div>
+	</nav>
+
+	<div class="jumbotron home_container">
+		<div class="container text-center">
+			<h1>ZERO HOUR</h1>
+			<div class="home_img">
+				<img src="images/hour_zero_logo.png" alt="logo">
+			</div>
+			<div class="home_img">
+				<img src="images/white_bar.png" alt="">
+			</div>
+		</div>
+	</div>
+
+
+
+
+	<!-- Container  -->
+	<div id="new_album" class="container-fluid">
+		<div class="row">
+			<div class="col-sm-6">
+				<h3>New Album</h3>
+				<br>
+				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+					do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+					enim ad minim veniam, quis nostrud exercitation ullamco laboris
+					nisi ut aliquip ex ea commodo consequat.
+				</h4>
+				<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+				sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+				Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+				nisi ut aliquip ex ea commodo consequat. Excepteur sint occaecat
+				cupidatat non proident, sunt in culpa qui officia deserunt mollit
+				anim id est laborum consectetur adipiscing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+				veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
+				ea commodo consequat.
+				</p>
+			</div>
+			<div class="col-sm-6">
+
+				<h3>Digital Album</h3>
+				<br>
+				<audio id="audio" preload="auto" tabindex="0" controls="">
+					<source src="http://www.archive.org/download/bolero_69/Bolero.mp3">
+					Your browser does not support the audio element.
+				</audio>
+
+				<ul id="playlist">
+					<li class="active"><a
+						href="https://t4.bcbits.com/stream/10620b9815121799ad43efb3da9c0cda/mp3-128/199913046?p=0&ts=1543710819&t=bee5ab0d9f830899ca568d93b3a738c23ea571a3&token=1543710819_ea4610b28919bbba840fc046812d8a7087e5dfa8">Safe 2 Say</a></li>
+					<li><a
+						href="https://t4.bcbits.com/stream/0f20b4134f8e1cc75e64681232751a50/mp3-128/3482554251?p=0&ts=1543710878&t=d324b57f83623a861659e568d067942246fc4fd4&token=1543710878_fdd582d7e5aa14d9858bab4e21d5c837716b7926">
+							Tough Love </a></li>
+					<li><a
+						href="https://t4.bcbits.com/stream/c00346b25a51005d209000859c5459c8/mp3-128/2590872734?p=0&ts=1543710917&t=e82137a5acea49f2df130053c868b1145b3ed381&token=1543710917_6f000370a17c4f5e2a1960fa77bb9706bba16f30">
+							Break / Bend </a></li>
+					<li><a
+						href="https://t4.bcbits.com/stream/8126c2c32d5d706dcc17693ce5bd841a/mp3-128/1146515802?p=0&ts=1543709887&t=358588d4721f9578b4abb25602f43a975c32ea68&token=1543709887_1b5a294ad62bc1929a3a9ba196a3a6e429f28c9b">
+							Who We Love </a></li>
+				</ul>
+
+			</div>
+		</div>
+		<br><br>
+		<div class="home_img text_center">
+				<img src="images/white_bar.png" alt="">
+			</div>
+			<br><br>
+	</div>
+
+
+
+	<div class="container-fluid bg-1 text-center">
+
+		<div class="row">
+			<div class="col-md-4">
+				<div class="thumbnail">
+					<a href="images/ryan.png"> <img src="images/ryan.png"
+						alt="Ryan" style="width: 100%">
+						<div class="caption">
+							<p>Lorem ipsum...</p>
+						</div>
+					</a>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="thumbnail">
+					<a href="images/band.png"> <img src="images/band.png"
+						alt="Band" style="width: 100%">
+						<div class="caption">
+							<p>Lorem ipsum...</p>
+						</div>
+					</a>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="thumbnail">
+					<a href="images/rob.png"> <img src="images/rob.png" alt="Rob"
+						style="width: 100%">
+						<div class="caption">
+							<p>Lorem ipsum...</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+
+	</div>
+
+
+
+	<br>
+	<br>
+
+	<footer class="container-fluid text-center">
+		<p>Copyright © 2018 Zero Hour. All Rights Reserved.</p>
+		<br><br><br>
+		<p>This page was made for school project. The list below cites all the sources where images, contents and codes were copied from</p>
+		<p>All band pictures: http://www.facebook.com/ZeroHourHC </p>
+		<p>Javascript index.js: http://devblog.lastrose.com/html5-audio-video-playlist/</p>
+		<p>Songs by Zero Hour are embeded from the site: https://zerohourhc.bandcamp.com/track/break-bend</p>
+		
+	</footer>
+
+</body>
+</html>
