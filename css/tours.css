@@ -1,0 +1,88 @@
+.footer {
+  font-size: 8px;
+  padding-bottom: 20px;
+}
+
+.header {
+  font-size: 10px;
+  padding-top: 30px;
+}
+
+.tour-dates {
+  color: #daba57;
+}
+
+.tour-table {
+  background-color: #525252;
+  margin: 100px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border-right: : 0px;
+  /* padding-bottom: .1px; */
+  /* margin-left: 50px;
+  margin-right: 50px; */
+}
+
+.dates {
+  margin: 10px;
+  margin-left: 20px;
+  font-size: 16px;
+}
+
+.btn {
+  /* padding-right: 0px; */
+  /* margin-right: 0px; */
+}
+
+.tour-body {
+  font-size: 12px;
+}
+
+tr {
+  border-bottom: 2px solid white;
+
+}
+
+/* tr.border_bottom td {
+  border-bottom:50pt solid black;
+} */
+
+button {
+  background-color: #525252;
+  padding: 10px;
+  color: white;
+  border: 2px solid white;
+}
+
+.table {
+  border-top: 2px solid white;
+}
+
+.triangle {
+  margin-top: 20px;
+  max-width: 125px;
+}
+
+.bar {
+  border: 1px solid #525252;
+}
+
+.icon {
+  max-width: 20px;
+  max-height: 20px;
+  border: 1px solid #525252;
+  /* padding: 0px;
+  margin: 0px; */
+
+}
+
+/* .icons {
+  margin-right: 30px;
+  /* padding: 0px;
+  margin: 0px; */
+} */
+
+.icon-li {
+  margin: 0px;
+  margin-right:0px;
+}
