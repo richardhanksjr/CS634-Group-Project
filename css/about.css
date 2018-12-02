@@ -1,0 +1,11 @@
+.about-title, .bio-title {
+  color: #daba57;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.thumbnail {
+	background-color: #000000 !important;
+	with: 450px;
+	height: 300x;;
+}

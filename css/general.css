@@ -1,0 +1,11 @@
+
+body {
+	font: 400 15px/1.8 Lato, sans-serif;
+	width: 100%;
+	background: #000000 url("../images/b3_bg.png") !important;
+	background-size: cover;
+	color: white;
+}
+.text_center {
+  text-align: center;
+}

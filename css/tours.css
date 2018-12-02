@@ -1,0 +1,84 @@
+
+
+.tour-dates {
+  color: #daba57;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.navbar {
+	margin-bottom: 0;
+	border-radius: 0;
+}
+
+.dates {
+  margin: 10px;
+  margin-left: 20px;
+  font-size: 16px;
+  font-family: ITF Devangari, sans-serif;
+}
+
+.tour-body {
+  font-size: 12px;
+}
+
+
+
+button {
+  /* background-color: #525252; */
+  padding: 10px;
+  /* color: white; */
+  border: 2px solid white;
+}
+
+
+
+.triangle {
+  margin-top: 20px;
+  max-width: 125px;
+}
+
+.table {
+ 
+  margin-right: 10em;
+   background-color: #525252;
+   font-size: 13px;
+}
+.table-header {
+	font-size: 16px;
+	color: #AAB7B8;
+}
+
+.bar {
+  border: 1px solid #525252;
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+.icon {
+  max-width: 20px;
+  max-height: 20px;
+  border: 1px solid #525252;
+  padding: 0px;
+  margin: 0px;ß
+
+}
+
+
+
+.icon-li {
+  margin: 0px;
+  margin-right:0px;
+  margin-left:0px;
+}
+
+.page {
+  background-image: url("../images/b3_bg.png");
+}
+
+/* To remove the spacing between the icons */
+.list-inline-item:not(:last-child) {
+    margin-right: 0rem;
+}
+
