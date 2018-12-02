@@ -33,6 +33,9 @@ include "header.php";
 			    		<div class="form-group">
 			    			<input class="form-control" placeholder="Password" name="password" type="password" value="">
 			    		</div>
+			    		<div class="form-group">
+			    			<input class="form-control" placeholder="Confirm Password" name="cpassword" type="password" value="">
+			    		</div>
 			    		<div class="checkbox">
 			    	    	<label>
 			    	    		<input name="remember" type="checkbox" value="Remember Me"> Remember Me
