@@ -6,9 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-<link rel="stylesheet"
-	href="css/general.css">
-<?php 
+<link rel="stylesheet" href="css/general.css">
+<?php
 echo '<link rel="stylesheet" href="' . $css . '">';
 ?>
 
@@ -17,8 +16,8 @@ echo '<link rel="stylesheet" href="' . $css . '">';
 <script
 	src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-<?php 
-echo '<script src="'.$js.'"></script>';
+<?php
+echo '<script src="' . $js . '"></script>';
 ?>
 
 </head>
@@ -37,20 +36,22 @@ echo '<script src="'.$js.'"></script>';
 			<div class="collapse navbar-collapse" id="myNavbar">
 				<ul class="nav navbar-nav navbar-left">
 					<li><a href="index.php">Home</a></li>
-					<li class="dropdown">
-          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Media
-          <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="index.php#songs">Songs</a></li>
-            <li><a href="index.php#videos">Videos</a></li>
-           
-          </ul>
-        </li>
+					<li class="dropdown"><a class="dropdown-toggle"
+						data-toggle="dropdown" href="#">Media <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href="index.php#songs">Songs</a></li>
+							<li><a href="index.php#videos">Videos</a></li>
+
+						</ul></li>
 					<li><a href="tours.php">Tour</a></li>
 					<li><a href="about.php">About</a></li>
-					<li><a href="#">Community</a></li>
-					<li><a href="#">Contact</a></li>
-					<li><a href="#">Store</a></li>
+					<li class="dropdown"><a class="dropdown-toggle"
+						data-toggle="dropdown" href="#">Account <span class="caret"></span></a>
+						<ul class="dropdown-menu">
+							<li><a href="login.php">Sign-in</a></li>
+							<li><a href="signup.php">Create Account</a></li>
+
+						</ul></li>
 
 
 				</ul>
@@ -106,4 +107,3 @@ echo '<script src="'.$js.'"></script>';
 			</div>
 		</div>
 	</nav>
-
