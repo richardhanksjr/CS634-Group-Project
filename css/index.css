@@ -57,7 +57,9 @@ audio {
 
 }
 
-
+h4.title {
+	font-size: 14px;
+}
 #playlist .active a {
 	color: #5DB0E6;
 	text-decoration: none;

@@ -46,7 +46,7 @@ include "header.php";
 
 				<h3>Digital Album</h3>
 				<br>
-				<audio id="audio" preload="auto" tabindex="0" controls="">
+				<!--  <audio id="audio" preload="auto" tabindex="0" controls="">
 					<source src="https://t4.bcbits.com/stream/10620b9815121799ad43efb3da9c0cda/mp3-128/199913046?p=0&ts=1543806072&t=cec5275d902e70200ba0313005e6dba5b21240b1&token=1543806072_a67d722c0016e2f4e868d169cf1da4bec2182c98">
 					Your browser does not support the audio element.
 				</audio>
@@ -64,7 +64,103 @@ include "header.php";
 					<li><a
 						href="https://t4.bcbits.com/stream/8126c2c32d5d706dcc17693ce5bd841a/mp3-128/1146515802?p=0&ts=1543709887&t=358588d4721f9578b4abb25602f43a975c32ea68&token=1543709887_1b5a294ad62bc1929a3a9ba196a3a6e429f28c9b">
 						Who We Love</a></li>
-				</ul>
+				</ul> -->
+				
+				
+					<div class="table-container">
+							<table class="table table-filter">
+								<tbody>
+									<tr data-status="pagado">
+										
+										<td>
+											<a href="javascript:;" class="star">
+												<i class="glyphicon glyphicon-music"></i>
+											</a>
+										</td>
+										<td>
+											<div class="media">
+												
+												<div class="media-body">
+													
+													<h4 class="title">
+														Sate 2 Say
+														<span class="pull-right pagado"><a href="https://zerohourhc.bandcamp.com/track/safe-2-say" class="btn btn-primary btn-xs" role="button">Listen</a>
+</span>
+													</h4>
+													</div>
+											</div>
+										</td>
+									</tr>
+									<tr data-status="pendiente">
+										
+										<td>
+											<a href="javascript:;" class="star">
+												<i class="glyphicon glyphicon-music""></i>
+											</a>
+										</td>
+										<td>
+											<div class="media">
+												
+												<div class="media-body">
+													
+													<h4 class="title">
+														Tough Love
+														<span class="pull-right pendiente"><a href="https://zerohourhc.bandcamp.com/track/tough-love" class="btn btn-primary btn-xs" role="button">Listen</a>
+</span>
+													</h4>
+													</div>
+											</div>
+										</td>
+									</tr>
+									<tr data-status="cancelado">
+										
+										<td>
+											<a href="javascript:;" class="star">
+												<i class="glyphicon glyphicon-music""></i>
+											</a>
+										</td>
+										<td>
+											<div class="media">
+												
+												<div class="media-body">
+													
+													<h4 class="title">
+														Break/Bend
+														<span class="pull-right cancelado"><a href="https://zerohourhc.bandcamp.com/track/break-bend" class="btn btn-primary btn-xs" role="button">Listen</a>
+</span>
+													</h4>
+													</div>
+											</div>
+										</td>
+									</tr>
+									<tr data-status="pagado">
+										
+										<td>
+											<a href="javascript:;" class="star">
+												<i class="glyphicon glyphicon-music"></i>
+											</a>
+										</td>
+										<td>
+											<div class="media">
+												
+												<div class="media-body">
+													
+													<h4 class="title">
+														Who We Are
+														<span class="pull-right pagado"><a href="https://zerohourhc.bandcamp.com/track/who-we-are" class="btn btn-primary btn-xs" role="button">Listen</a>
+</span>
+													</h4>
+													</div>
+											</div>
+										</td>
+									</tr>
+									
+								</tbody>
+							</table>
+						</div>
+				
+				
+				<!--  end here -->
 
 			</div>
 		</div>
