@@ -1,4 +1,4 @@
-<?php 
+<?php
 $css = "css/index.css";
 $js = "js/index.js";
 
@@ -29,7 +29,7 @@ include "header.php";
 				<h3>Positive Aggressive Mental Attitude - New Album Coming in 2018</h3>
 				<br>
 				<p>Positive Aggressive Mental Attitude is Zero Hour's second album and most progessive album yet.
-				The band came together this past fall to create an experience their fans have not heard before. 
+				The band came together this past fall to create an experience their fans have not heard before.
 				The album's name and lyrics promote the band's mantra of living a positive life while being aggressive
 				enough to seize their hopes and dreams.
 				</h4>
@@ -81,7 +81,7 @@ include "header.php";
 	<div class="container-fluid bg-1 text-center">
 
 		<div class="row">
-		
+
 			<div class="col-md-4">
 				<div class="thumbnail">
 					<a href="https://www.youtube.com/watch?v=P0o3F-3mHt4"> <img src="images/youtube1.png"
@@ -115,13 +115,19 @@ include "header.php";
 		</div>
 
 	</div>
+<br>
+<br>
 
-
+	<div class="text-center submit-btn">
+		<p class="submit-label">Get our latest updates!</p>
+		<input type="text" name="" value="" placeholder="Email address">
+		<input type="submit" name="Submit" value="Submit">
+	</div>
 
 	<br>
 	<br>
 
-<?php 
+
+<?php
     include "footer.php";
 ?>
-	
