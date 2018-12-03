@@ -1,5 +1,5 @@
 <?php 
-$css = "css/signup.css";
+$css = "css/account.css";
 $js = "js/signup.js";
 
 include "header.php";
@@ -38,7 +38,7 @@ include "header.php";
 			    		</div>
 			    		<div class="checkbox">
 			    	    	<label>
-			    	    		<input name="remember" type="checkbox" value="Remember Me"> Remember Me
+			    	    		<input name="remember" type="checkbox" value="Remember Me"><span class="remember">Remember Me</span>
 			    	    	</label>
 			    	    </div>
 			    		<input class="btn btn-lg btn-success btn-block" type="submit" value="Create account">
