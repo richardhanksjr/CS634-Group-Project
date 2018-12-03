@@ -1,4 +1,18 @@
+<<<<<<< HEAD
 
+=======
+.footer {
+  font-size: 8px;
+  padding-bottom: 20px;
+  margin-top: 6em;
+}
+
+.header {
+  font-size: 10px;
+  padding-top: 30px;
+  margin-bottom: 5em;
+}
+>>>>>>> 0cbb9b4ee6eb730d8f1a2a26c60f80d5dc2db817
 
 .tour-dates {
   color: #daba57;
@@ -6,6 +20,17 @@
   font-family: 'Times New Roman', Times, serif;
 }
 
+<<<<<<< HEAD
+=======
+.tour-table {
+  background-color: #525252;
+  margin-right:2em;
+  margin-top: 2em;
+  margin-bottom: 0em;
+  border-right: : 0px;
+
+}
+>>>>>>> 0cbb9b4ee6eb730d8f1a2a26c60f80d5dc2db817
 
 .navbar {
 	margin-bottom: 0;
@@ -23,7 +48,14 @@
   font-size: 12px;
 }
 
+<<<<<<< HEAD
 
+=======
+tr {
+  border-bottom: 2px solid white;
+
+}
+>>>>>>> 0cbb9b4ee6eb730d8f1a2a26c60f80d5dc2db817
 
 button {
   /* background-color: #525252; */
@@ -32,13 +64,21 @@ button {
   border: 2px solid white;
 }
 
+<<<<<<< HEAD
 
+=======
+.table {
+  border-top: 2px solid white;
+  margin-right: 10em;
+}
+>>>>>>> 0cbb9b4ee6eb730d8f1a2a26c60f80d5dc2db817
 
 .triangle {
   margin-top: 20px;
   max-width: 125px;
 }
 
+<<<<<<< HEAD
 .table {
  
   margin-right: 10em;
@@ -50,6 +90,8 @@ button {
 	color: #AAB7B8;
 }
 
+=======
+>>>>>>> 0cbb9b4ee6eb730d8f1a2a26c60f80d5dc2db817
 .bar {
   border: 1px solid #525252;
   margin-top: 1em;
@@ -65,7 +107,14 @@ button {
 
 }
 
+<<<<<<< HEAD
 
+=======
+tr {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+>>>>>>> 0cbb9b4ee6eb730d8f1a2a26c60f80d5dc2db817
 
 .icon-li {
   margin: 0px;
@@ -82,3 +131,11 @@ button {
     margin-right: 0rem;
 }
 
+<<<<<<< HEAD
+=======
+.table td, .table th {
+  vertical-align: middle;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+>>>>>>> 0cbb9b4ee6eb730d8f1a2a26c60f80d5dc2db817
