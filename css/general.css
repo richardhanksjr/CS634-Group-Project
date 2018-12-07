@@ -9,3 +9,11 @@ body {
 .text_center {
   text-align: center;
 }
+.caption-bold {
+	font-weight: bold;
+}
+.page-caption {
+ color: #daba57;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}

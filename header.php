@@ -52,6 +52,7 @@ echo '<script src="' . $js . '"></script>';
 							<li><a href="signup.php">Create Account</a></li>
 
 						</ul></li>
+						<li><a href="store.php">Store</a></li>
 
 
 				</ul>

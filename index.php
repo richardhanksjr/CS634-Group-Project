@@ -38,7 +38,7 @@ include "header.php";
 				Be sure to check our Tour page for the latest information on venue's and dates!
 				<br>
 				<br>
-				New Merch will also be available with the release of Positive Aggressive Mental Attitud
+				New Merch will also be available with the release of Positive Aggressive Mental Attitude.
 				</p>
 				</span>
 			</div>
