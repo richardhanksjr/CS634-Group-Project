@@ -1,0 +1,34 @@
+.forum-title {
+  color: #daba57;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.thumbnail {
+	background-color: #000000 !important;
+	with: 450px;
+	height: 300x;;
+}
+
+.odd {
+	color: #333333;
+	background-color: #e6e6e6;
+}
+.even {
+	color: #000000;
+	background-color: #ffffff;
+}
+.image-td {
+	width: 20px;
+}
+.label-td {
+	text-align: center;
+}
+
+#new-topic {
+	width: 50% !important;
+}
+.post-button {
+	text-align: right;
+}
+#success_message{ display: none;}

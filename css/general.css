@@ -14,6 +14,6 @@ body {
 }
 .page-caption {
  color: #daba57;
-  font-size: 30px;
+  font-size: 30px !important;
   font-family: 'Times New Roman', Times, serif;
 }

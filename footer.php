@@ -9,6 +9,7 @@
 		<li>https://pngtree.com/</li>
 		<li>https://pixabay.com</li>
 		<li>https://gallery.yopriceville.com</li>
+		<li>http://www.stickpng.com/img/icons-logos-emojis/users/young-user-icon</li>
 		</ul>
 		
 	</footer>

@@ -53,6 +53,7 @@ echo '<script src="' . $js . '"></script>';
 
 						</ul></li>
 						<li><a href="store.php">Store</a></li>
+						<li><a href="forum.php">Forum</a></li>
 
 
 				</ul>

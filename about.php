@@ -11,7 +11,7 @@ include "header.php";
 		<div class="col-12 text-center about-title">About</div>
 	</div>
 	<div class="text-center">
-		<a href="index.html"><img class="text-center triangle"
+		<a href="index.php"><img class="text-center triangle"
 			src="images/triangle_image.png" alt=""></a> <br> <br> <br>
 		<div class="home_img">
 			<img src="images/white_bar.png" alt="">
