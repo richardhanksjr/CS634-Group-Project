@@ -182,9 +182,7 @@ include "header.php";
 				<div class="thumbnail">
 					<a href="https://www.youtube.com/watch?v=P0o3F-3mHt4"> <img src="images/youtube1.png"
 						alt="Ryan" style="width: 100%">
-						<div class="caption">
-							<p></p>
-						</div>
+						
 					</a>
 				</div>
 			</div>
@@ -192,9 +190,7 @@ include "header.php";
 				<div class="thumbnail">
 					<a href="https://www.youtube.com/watch?v=Dnnz3pCJ7qw"> <img src="images/youtube2.png"
 						alt="Band" style="width: 100%">
-						<div class="caption">
-							<p></p>
-						</div>
+						
 					</a>
 				</div>
 			</div>
@@ -202,9 +198,7 @@ include "header.php";
 				<div class="thumbnail">
 					<a href="https://www.youtube.com/watch?v=PZn5Zv-AxTc"> <img src="images/youtube3.png" alt="Rob"
 						style="width: 100%">
-						<div class="caption">
-							<p></p>
-						</div>
+						
 					</a>
 				</div>
 			</div>

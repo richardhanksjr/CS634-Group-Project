@@ -42,9 +42,7 @@ include "header.php";
 				<div class="thumbnail">
 					<a href="images/band.png"> <img src="images/band.png" alt="Band"
 						style="width: 100%">
-						<div class="caption">
-							<p></p>
-						</div>
+						
 					</a>
 				</div>
 
