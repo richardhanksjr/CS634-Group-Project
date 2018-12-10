@@ -78,42 +78,42 @@ include "header.php";
 					<td><a href="post.php?id=1" class="">2018 Tours</a></td>
 					<td>Jonathan</td>
 					<td class="label-td"><span class="label label-primary">2</span></td>
-					<td>December 08, 2018 08:00 PM</td>
+					<td>December 08, 2018 04:26 PM</td>
 				</tr>
 				<tr class="even">
 					<td class="image-td"><img src="images/post_icon.png" alt="post"></td>
 					<td><a href="post.php?id=2" class="">New Album</a></td>
 					<td>Rich</td>
 					<td class="label-td"><span class="label label-primary">1</span></td>
-					<td>December 08, 2018 08:00 PM</td>
+					<td>December 08, 2018 06:00 PM</td>
 				</tr>
 				<tr class="odd">
 					<td class="image-td"><img src="images/post_icon.png" alt="post"></td>
-					<td><a href="post.php?id=3" class="">2018 Tours</a></td>
+					<td><a href="post.php?id=3" class="">About the band</a></td>
 					<td>Ali</td>
 					<td class="label-td"><span class="label label-primary">0</span></td>
-					<td>December 08, 2018 08:00 PM</td>
+					<td>December 08, 2018 10:00 PM</td>
 				</tr>
 				<tr class="even">
 					<td class="image-td"><img src="images/post_icon.png" alt="post"></td>
 					<td><a href="post.php?id=4" class="">2018 Tours</a></td>
 					<td>Jonathan</td>
 					<td class="label-td"><span class="label label-primary">0</span></td>
-					<td>December 08, 2018 08:00 PM</td>
+					<td>December 08, 2018 11:00 PM</td>
 				</tr>
 				<tr class="odd">
 					<td class="image-td"><img src="images/post_icon.png" alt="post"></td>
-					<td><a href="post.php?id=5" class="">2018 Tours</a></td>
+					<td><a href="post.php?id=5" class="">Song Safe 2 Say</a></td>
 					<td>Rich</td>
 					<td class="label-td"><span class="label label-primary">1</span></td>
-					<td>December 08, 2018 08:00 PM</td>
+					<td>December 08, 2018 11:20 PM</td>
 				</tr>
 				<tr class="even">
 					<td class="image-td"><img src="images/post_icon.png" alt="post"></td>
 					<td><a href="post.php?id=6" class="">2018 Tours</a></td>
 					<td>Ali</td>
 					<td class="label-td"><span class="label label-primary">0</span></td>
-					<td>December 08, 2018 08:00 PM</td>
+					<td>December 08, 2018 11:35 PM</td>
 				</tr>
 
 
