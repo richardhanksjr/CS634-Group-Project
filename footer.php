@@ -5,12 +5,12 @@
 		<p>All band pictures: http://www.facebook.com/ZeroHourHC </p>
 		<p>Javascript index.js: http://devblog.lastrose.com/html5-audio-video-playlist/</p>
 		<p>Songs by Zero Hour are embeded from the site: https://zerohourhc.bandcamp.com/track/break-bend</p>
-		<p>Coffee cups, Baseball caps: <ul>
-		<li>https://pngtree.com/</li>
-		<li>https://pixabay.com</li>
-		<li>https://gallery.yopriceville.com</li>
-		<li>http://www.stickpng.com/img/icons-logos-emojis/users/young-user-icon</li>
-		</ul>
+		<p>Coffee cups, Baseball caps:
+		<p>https://pngtree.com/</p>
+		<p>https://pixabay.com</p>
+		<p>https://gallery.yopriceville.com</p>
+		<p>http://www.stickpng.com/img/icons-logos-emojis/users/young-user-icon</p>
+		
 		
 	</footer>
 
